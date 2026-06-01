@@ -1,4 +1,5 @@
 # Internship Task 1: Data Cleaning and Preprocessing
+<img width="972" height="687" alt="image" src="https://github.com/user-attachments/assets/18ae7268-4bff-4799-bf23-28ef3657991a" />
 
 ## 📌 Objective
 The primary goal of this task is to take a raw, unstructured dataset and perform essential data pre-processing steps to make it ready for exploratory data analysis (EDA) and visualization. 
