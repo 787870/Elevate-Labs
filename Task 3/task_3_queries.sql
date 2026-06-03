@@ -22,4 +22,7 @@ SELECT OrderDate, SUM(Quantity) as TotalItemsSold
 FROM Orders 
 GROUP BY OrderDate;
 
+-- 5. Optimize queries with indexes
+CREATE INDEX idx_order_date ON Orders(OrderDate);
+
 SELECT * FROM DailySales;
