@@ -7,7 +7,9 @@
 
 ## 📌 Project Overview
 Product returns are one of the highest operational costs for e-commerce businesses. This project provides an end-to-end analytical solution to mitigate revenue loss by predicting the likelihood of a product return *before* it happens. 
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard]
+(<img width="1160" height="657" alt="Screenshot 2026-06-15 004616" src="https://github.com/user-attachments/assets/99b68384-371b-48f3-af19-8cfd725b221e" />
+)
 
 Using a dataset of **1 million Amazon transaction records**, I engineered a **Logistic Regression Machine Learning pipeline** to assign a precise "Return Risk Score" to every order. These predictive insights were then integrated into a dark-themed, enterprise-ready **Power BI Dashboard**, allowing operational managers to track categorical return rates and intercept high-risk transactions in real-time.
 
