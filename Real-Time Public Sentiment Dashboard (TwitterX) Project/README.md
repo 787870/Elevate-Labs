@@ -15,10 +15,8 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 - **Environment:** Google Colab
 
 ## Dashboard Preview
-![Dashboard Screenshot]
 
 <img width="1362" height="767" alt="Screenshot 2026-06-16 033913" src="https://github.com/user-attachments/assets/20e1fa7e-3c8f-46b2-83d6-9be269edc574" />
-
 
 ## How to Run
 1. Clone this repository.
